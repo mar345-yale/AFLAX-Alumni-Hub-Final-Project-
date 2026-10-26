@@ -1,0 +1,22 @@
+# Secrets: never commit real keys
+.env
+.env.*
+!.env.example
+
+# Local runtime data (database, uploads, outbox, signing secret)
+backend/data/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node (frontend/dist IS committed: it's the pre-built site the back end serves)
+frontend/node_modules/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

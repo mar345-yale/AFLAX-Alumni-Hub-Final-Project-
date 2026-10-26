@@ -1,0 +1,124 @@
+/* AFLAX theme - colors taken from the Retired USAFA bird logo:
+   royal blue body, gold talons and highlights, white, and the steel-blue wing tips. */
+:root {
+  --navy: #0b1f4b;
+  --navy-2: #12306e;
+  --blue: #1f4fbf;
+  --blue-600: #2a5dd1;
+  --blue-100: #e3ebfb;
+  --blue-50: #f2f6fd;
+  --steel: #8ea4c8;
+  --gold: #f5c518;
+  --gold-600: #dca80c;
+  --gold-100: #fdf3cc;
+  --white: #ffffff;
+  --ink: #0f1a33;
+  --text: #33405c;
+  --muted: #66738f;
+  --border: #d9e1ef;
+  --success: #1c7c4a;
+  --success-bg: #e5f5ec;
+  --danger: #c0352b;
+  --danger-bg: #fdecea;
+  --radius: 14px;
+  --radius-sm: 9px;
+  --shadow: 0 6px 24px rgba(11, 31, 75, 0.08);
+  --shadow-lg: 0 18px 50px rgba(11, 31, 75, 0.16);
+  --font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Oswald', 'Arial Narrow', 'Inter', system-ui, sans-serif;
+
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--blue-50);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--ink);
+  line-height: 1.15;
+  margin: 0 0 0.4em;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2rem, 4vw, 2.9rem);
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+h3 {
+  font-size: 1.15rem;
+}
+
+p {
+  margin: 0 0 0.8em;
+}
+
+a {
+  color: var(--blue);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.small {
+  font-size: 0.875rem;
+}
+
+.center {
+  text-align: center;
+}
+
+.eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 0.5em;
+}

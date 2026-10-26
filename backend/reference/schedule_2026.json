@@ -1,0 +1,27 @@
+{
+  "_source": "https://goairforcefalcons.com/sports/mens-lacrosse/schedule (2026 season, pulled 2026-10-25). Board members add the 2027 schedule in the app once it is released.",
+  "games": [
+    {"date": "2026-01-25", "time": "12:30 PM", "home_away": "Away", "opponent": "Notre Dame (Exhibition)", "location": "Notre Dame, IN", "venue": "Arlotta Stadium", "tournament": "", "result": "Exhibition", "lat": 41.698, "lng": -86.234},
+    {"date": "2026-02-01", "time": "12:00 PM", "home_away": "Home", "opponent": "Lafayette", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "W 13-12", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-02-07", "time": "12:00 PM", "home_away": "Away", "opponent": "Denver", "location": "Denver, CO", "venue": "Peter Barton Lacrosse Stadium", "tournament": "", "result": "L 2-10", "lat": 39.678, "lng": -104.962},
+    {"date": "2026-02-14", "time": "11:00 AM", "home_away": "Home", "opponent": "#10 Ohio State", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "L 9-14", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-02-24", "time": "8:00 AM", "home_away": "Away", "opponent": "Siena", "location": "Loudonville, NY", "venue": "Hickey Field", "tournament": "", "result": "L 9-21", "lat": 42.719, "lng": -73.752},
+    {"date": "2026-02-28", "time": "10:00 AM", "home_away": "Away", "opponent": "Marist", "location": "Poughkeepsie, NY", "venue": "Tenney Stadium", "tournament": "", "result": "L 11-13", "lat": 41.723, "lng": -73.934},
+    {"date": "2026-03-07", "time": "1:00 PM", "home_away": "Home", "opponent": "#4 Duke", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "L 6-21", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-03-12", "time": "3:00 PM", "home_away": "Home", "opponent": "#7 Syracuse", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "L 11-17", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-03-21", "time": "10:00 AM", "home_away": "Away", "opponent": "Providence", "location": "Providence, RI", "venue": "Chapey Field at Anderson Stadium", "tournament": "", "result": "W 18-17", "lat": 41.843, "lng": -71.437},
+    {"date": "2026-03-28", "time": "12:00 PM", "home_away": "Home", "opponent": "Jacksonville", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "L 10-16", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-04-04", "time": "10:00 AM", "home_away": "Away", "opponent": "Bellarmine", "location": "Louisville, KY", "venue": "Owsley B. Frazier Stadium", "tournament": "", "result": "W 13-12", "lat": 38.218, "lng": -85.712},
+    {"date": "2026-04-11", "time": "10:00 AM", "home_away": "Away", "opponent": "Queens (NC)", "location": "Charlotte, NC", "venue": "Queens Sports Complex", "tournament": "", "result": "W 17-7", "lat": 35.189, "lng": -80.833},
+    {"date": "2026-04-18", "time": "11:00 AM MT", "home_away": "Home", "opponent": "Mercer", "location": "USAFA, CO", "venue": "Falcon Stadium - Lacrosse", "tournament": "", "result": "W 17-9", "lat": 38.997, "lng": -104.844},
+    {"date": "2026-04-25", "time": "12:00 PM", "home_away": "Away", "opponent": "#18 Utah", "location": "Salt Lake City, UT", "venue": "Ute Field", "tournament": "", "result": "W 14-13", "lat": 40.760, "lng": -111.849},
+    {"date": "2026-05-01", "time": "4:00 PM MT", "home_away": "Neutral", "opponent": "(2) Utah", "location": "Jacksonville, FL", "venue": "D.B. Milne Field", "tournament": "ASUN Tournament", "result": "W 13-12", "lat": 30.351, "lng": -81.604},
+    {"date": "2026-05-03", "time": "11:00 AM MT", "home_away": "Away", "opponent": "(1) Jacksonville", "location": "Jacksonville, FL", "venue": "D.B. Milne Field", "tournament": "ASUN Tournament", "result": "L 7-16", "lat": 30.351, "lng": -81.604}
+  ],
+  "tailgates": [
+    {"game_date": "2026-02-07", "title": "Denver Alumni Tailgate", "location": "Lot near Peter Barton Stadium", "start_time": "10:30 AM", "details": "Burgers, brats, and blue. Bring a chair and your old jersey.", "host": "AFLAX Alumni Board"},
+    {"game_date": "2026-03-21", "title": "New England Falcons Meetup", "location": "Providence College west lot", "start_time": "8:30 AM", "details": "Coffee and breakfast burritos before first draw.", "host": "AFLAX Alumni Board"},
+    {"game_date": "2026-04-11", "title": "Queen City Tailgate", "location": "Queens Sports Complex parking", "start_time": "8:30 AM", "details": "BBQ hosted by Charlotte-area alumni.", "host": "AFLAX Alumni Board"},
+    {"game_date": "2026-04-25", "title": "Wasatch Front Tailgate", "location": "Ute Field north lot", "start_time": "10:00 AM", "details": "Hill AFB alumni bringing the grill.", "host": "AFLAX Alumni Board"}
+  ]
+}
